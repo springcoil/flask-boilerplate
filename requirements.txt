@@ -7,7 +7,7 @@ webassets==0.7
 jsmin==2.0.2
 cssmin==0.1.4
 Flask-WTF==0.8
-WTForms==1.0.2
+WTForms==3.0.0a1
 Flask-Script==0.5.1
 Flask-Mail==0.7.3
 blinker==1.2
