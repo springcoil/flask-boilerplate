@@ -6,7 +6,7 @@ Flask-Assets==0.7
 webassets==0.7
 jsmin==2.0.2
 cssmin==0.1.4
-Flask-WTF==0.8
+Flask-WTF==0.9.5
 WTForms==1.0.2
 Flask-Script==0.5.1
 Flask-Mail==0.7.3
