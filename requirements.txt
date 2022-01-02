@@ -14,6 +14,6 @@ blinker==1.2
 Flask-Cache==0.9.0
 Fabric==1.4.3
 ssh==1.7.14
-pycrypto==2.6
+pycrypto==2.6.1
 python-memcached==1.48
 paramiko
