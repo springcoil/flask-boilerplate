@@ -1,7 +1,7 @@
 unittest2==0.5.1
-Flask==0.9
-Werkzeug==0.8.3
-Jinja2==2.6
+Flask==0.12.3
+Werkzeug==0.15.3
+Jinja2==2.11.3
 Flask-Assets==0.7
 webassets==0.7
 jsmin==2.0.2
@@ -14,6 +14,6 @@ blinker==1.2
 Flask-Cache==0.9.0
 Fabric==1.4.3
 ssh==1.7.14
-pycrypto==2.6
+pycrypto==2.6.1
 python-memcached==1.48
 paramiko
